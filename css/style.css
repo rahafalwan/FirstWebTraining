@@ -1,0 +1,67 @@
+footer {
+    position: absolute;
+    bottom: 10px;
+    
+  }
+  .navbarbg
+  {
+    background-color: white;
+    
+  }
+  #collapsibleNavId
+  {
+    height: 50px;
+  }
+  .social-media-icons {
+  text-align: center;
+  margin-top: 20px;
+  
+}
+.social-media-icons img {
+  width: 40px;
+  height: 40px;
+  margin: 0 5px;
+}
+
+.card-title
+{
+    text-align: center;
+}
+.card-text
+{
+    text-align: center;
+}
+.imgBackground {
+  background-image: url("Images/cover7.jpg") ;
+  background-repeat: no-repeat;
+  background-size: 100% 100% ;
+
+  
+}
+@media (min-width: 992px) {
+    .navbar {
+      height: 100px;
+    }
+  }
+  @media (max-width: 991px) {
+    .navbar {
+      height: 50px;
+    }
+  }
+  main{
+   
+   padding: 50pt;
+  }
+
+  
+  div.a {
+    line-height: 200%;
+  }
+  .bfoot
+  {
+    background-color: lightgray;
+  }
+  
+.setcol{
+    text-align: right;
+}
